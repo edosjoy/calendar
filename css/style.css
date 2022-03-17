@@ -1,0 +1,39 @@
+.calendar {
+    border: 1px solid #000;
+    width: 500px;
+    height: 300px;
+    margin: 100px auto;
+}
+
+.buttons {
+    width: 425px;
+    margin: 10px auto;
+}
+
+button {
+    margin: 5px;
+    width: 200px;
+}
+
+.month-and-year {
+    text-align: center;
+}
+
+.days {
+    width: 450px;
+    margin: 30px auto;
+}
+
+.day {
+    display: inline-block;
+    border: 1px solid black;
+    width: 20px;
+    line-height: 20px;
+    text-align: center;
+    margin: 5px;
+}
+
+.day.now {
+    background-color: #000000;
+    color: #fff;
+}
