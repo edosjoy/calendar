@@ -1,6 +1,6 @@
 # Calendar
 
-Календарь https://edosjoy.github.io/calendar/
+Deploy https://edosjoy.github.io/calendar/
 
 Один из учебных проектов
 
